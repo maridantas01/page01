@@ -1,0 +1,51 @@
+body{
+    background-color: #F2ACC6;
+    color: #BF5079;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.config{
+    background-color: #FF859C;
+    color: #732F48;
+    width: 80%;
+}
+
+.box{
+    text-align: center;
+    background-color: #732F48;
+}
+
+.centralizado{
+    text-align: center;
+}
+
+.tamanho{
+    font-size: 24px;
+    color: #732F48;
+}
+
+.margem{
+    margin: 80px;
+}
+
+.preenchimento{
+    margin: 0;
+    padding: 80px;
+}
+
+.borda{
+    margin: 0;
+    border: 20px solid #CB4F71;
+}
+
+a{
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 2.5px;
+    color: #c55472;
+}
+
+a:hover{
+    color: #000000;
+    background-color: #7A5660;
+}
